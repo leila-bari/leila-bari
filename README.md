@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leila
 - 👀 I’m interested in AI powered chatbots and backend development.
-- 🌱 I’m currently learning: Java | Node.js
+- 🌱 I’m currently learning: Java | Node.js | NLP
 - 💞️ I’m looking to collaborate on AI and ML projects
 - 😄 Pronouns: she/her
 
